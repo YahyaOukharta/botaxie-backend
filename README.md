@@ -14,8 +14,8 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#technologies">Technologies</a> •
-  <a href="#contact-and-support">Contact and Support</a>
-  <a href="#license">License</a> •
+  <a href="#contact-and-support">Contact and Support</a> •
+  <a href="#license">License</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/Botaxie/botaxie/main/screenshots/screenshot-rocks(2).png)
