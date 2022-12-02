@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Backend implementation of NFT (Axie Infinity) Sniper bot as-a-service in <a href="https://nestjs.com/" target="_blank">Nest.js</a>.</h4>
+<h4 align="center">NFT (Axie Infinity) Sniper bot as-a-service in <a href="https://nestjs.com/" target="_blank">Nest.js</a>.</h4>
 
 
 
