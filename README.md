@@ -65,7 +65,7 @@ $ cd botaxie-backend
 # Install dependencies
 $ npm install
 # Run the app
-$ npm run start:start
+$ npm run start:dev
 ```
 
 ## Configurations
